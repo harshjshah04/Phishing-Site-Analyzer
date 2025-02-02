@@ -1,3 +1,0 @@
-Hi guys my name is harsh and I am currently in my final year
-I am editing this file on a new branch
-hello now I am trying to merge a conflicting branch
